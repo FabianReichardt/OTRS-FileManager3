@@ -8,7 +8,7 @@
         <Setting>
             <FrontendModuleReg>
                 <Description>Web File Manager</Description>
-                <NavBarName> FileManager33</NavBarName>
+                <NavBarName> FileManager3</NavBarName>
                 <Title></Title>
                 <NavBar>
                     <Description>A webbased file manager</Description>
