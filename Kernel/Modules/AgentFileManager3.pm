@@ -35,8 +35,8 @@ sub new {
     }
 
     # config options
-    $Self->{DataDir}  = $Self->{ConfigObject}->Get('FileManager::Root') . "/";
-    $Self->{TrashDir} = $Self->{ConfigObject}->Get('FileManager::Trash')
+    $Self->{DataDir}  = $Self->{ConfigObject}->Get('FileManager3::Root') . "/";
+    $Self->{TrashDir} = $Self->{ConfigObject}->Get('FileManager3::Trash')
         || $Self->{DataDir} . '/Trash/';
     $Self->{TrashDir} =~ s{<OTRS_FileManager3::Root>}{$Self->{DataDir}}smx;
 
