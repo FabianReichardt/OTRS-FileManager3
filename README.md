@@ -18,5 +18,8 @@ Prerequisites
 
 Current build
 =============
-
 OTRS-FileManager3-1.0.2.opm
+
+Download
+========
+https://github.com/ojenning/OTRS-FileManager3/downloads
