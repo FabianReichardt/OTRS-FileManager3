@@ -9,6 +9,13 @@ http://source.otrs.org/viewvc.cgi/FileManager/
 
 There are no new features.
 
+Installation
+============
+Download the package and install it via admin interface -> package manager.
+
+Prerequisites
+* OTRS 3.1
+
 Current build
 =============
 
