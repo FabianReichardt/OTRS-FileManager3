@@ -16,10 +16,6 @@ Download the package and install it via admin interface -> package manager.
 Prerequisites
 * OTRS 3.1
 
-Current build
-=============
-OTRS-FileManager3-1.0.2.opm
-
 Download
 ========
 https://github.com/ojenning/OTRS-FileManager3/downloads
