@@ -8,11 +8,11 @@
         <Setting>
             <FrontendModuleReg>
                 <Description>Web File Manager</Description>
-                <NavBarName> FileManager3</NavBarName>
+                <NavBarName>FileManager3</NavBarName>
                 <Title></Title>
                 <NavBar>
                     <Description>A webbased file manager</Description>
-                    <Name> FileManager </Name>
+                    <Name>FileManager</Name>
                     <Type>Menu</Type>
                     <Block>ItemArea</Block>
                     <Image>filemanager.png</Image>
@@ -88,3 +88,4 @@
         </Setting>
     </ConfigItem>
 </otrs_config>
+
