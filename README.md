@@ -19,3 +19,7 @@ Prerequisites
 Download
 ========
 https://github.com/ojenning/OTRS-FileManager3/downloads
+
+or
+
+http://opmzone.org/
