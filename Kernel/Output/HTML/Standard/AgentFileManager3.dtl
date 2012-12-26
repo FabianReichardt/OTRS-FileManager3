@@ -13,7 +13,7 @@
 # --
 
 <div class="MainBox ARIARoleMain LayoutFixedSidebar SidebarFirst">
-    <h1 class="Header">$Text{"OTRS FileManger III"}</h1>
+    <h1 class="Header">$Text{"OTRS FileManager III"}</h1>
     <div class="SidebarColumn">
         <div class="WidgetSimple">
             <div class="Header">

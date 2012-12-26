@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <otrs_package version="1.0">
     <Name>OTRS-FileManager3</Name>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
+    <Framework>3.0.x</Framework>
     <Framework>3.1.x</Framework>
     <Vendor>Ole Jenning</Vendor>
     <URL>https://github.com/ojenning</URL>
@@ -34,7 +35,7 @@
         &lt;br&gt;
         First version implemented and maintained by OTRS AG and c.a.p.e. IT.&lt;br&gt;
         &lt;br&gt;
-        Ported to Framwork 3.1.x by Ole Jenning &lt;br&gt;
+        Ported to Framwork 3 by Ole Jenning &lt;br&gt;
         Build and tested on Linux Mint 13 Maya &lt;br&gt;
         https://github.com/ojenning &lt;br&gt;
         &lt;br&gt;
