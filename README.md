@@ -25,5 +25,8 @@ Download
 ========
 
 	
-	http://opmzone.org/
+Package build
+=============
+
+perl otrs.PackageManager.pl -a build -p %GitHome%\OTRS-FileManager3\OTRS-FileManager3.sopm -d %GitHome%\OTRS-FileManager3\
 	
