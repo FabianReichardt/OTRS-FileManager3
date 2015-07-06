@@ -29,4 +29,6 @@ Package build
 =============
 
 perl otrs.PackageManager.pl -a build -p %GitHome%\OTRS-FileManager3\OTRS-FileManager3.sopm -d %GitHome%\OTRS-FileManager3\
+
+perl otrs.PackageManager.pl -a build -p /home/github/OTRS-FileManager3/OTRS-FileManager3.sopm -d /home/github/OTRS-FileManager3/
 	
